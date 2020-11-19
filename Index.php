@@ -72,9 +72,9 @@
     
 
     <footer>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio, ut officiis atque quam praesentium totam eos ab optio dolorum eius, rem dolore error magni tenetur reiciendis amet adipisci quas sequi iure maxime assumenda quo id. Perspiciatis tempora officiis reiciendis. Nesciunt debitis laborum nostrum esse quam veritatis, veniam fugiat recusandae voluptatibus ex eos, doloremque consectetur voluptate enim suscipit nemo magnam provident quasi! Iusto atque, ipsam quod debitis voluptate sint recusandae eveniet labore animi distinctio sapiente enim qui ea. Nisi quaerat officiis ipsa enim tempore nulla blanditiis numquam tempora suscipit! Tenetur quisquam mollitia nam iusto excepturi deserunt debitis ut. Et nulla exercitationem, magnam quisquam esse quibusdam minima! Aut, repellendus? Aperiam eius, doloribus quisquam illum impedit iste dolorem vitae et ullam quod voluptatem temporibus laudantium quis repellat neque unde nesciunt, error voluptatum! Eos porro quia beatae quis, omnis voluptatem fuga modi vitae eius quam dolorem ipsum voluptate, explicabo aperiam. Repellendus quo magnam in.</p>
-        <img src="https://cdn.pixabay.com/photo/2020/11/16/16/05/hoverfly-5749361__340.jpg" alt="">
-        <img src="https://cdn.pixabay.com/photo/2020/03/23/08/37/taiwan-4959896__340.jpg" alt="">
+        <div class="container bg-danger text-info text-center p-5">
+            &copy - hack-him &#x1F608;
+        </div>
     </footer>
 
 
