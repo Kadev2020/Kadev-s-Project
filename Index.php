@@ -71,8 +71,8 @@
         </main>
     
     <footer>
-        <div class="container bg-dark text-white text-center">
-            &copy - Kadev2020 - 2020/11.
+        <div class="container bg-danger text-info text-center p-5">
+            &copy - hack-him &#x1F608;
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
