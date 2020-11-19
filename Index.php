@@ -71,10 +71,12 @@
         </main>
     
     <footer>
-        <div class="container bg-dark text-white text-center">
-            &copy - Kadev2020 - 2020/11.
-        </div>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio, ut officiis atque quam praesentium totam eos ab optio dolorum eius, rem dolore error magni tenetur reiciendis amet adipisci quas sequi iure maxime assumenda quo id. Perspiciatis tempora officiis reiciendis. Nesciunt debitis laborum nostrum esse quam veritatis, veniam fugiat recusandae voluptatibus ex eos, doloremque consectetur voluptate enim suscipit nemo magnam provident quasi! Iusto atque, ipsam quod debitis voluptate sint recusandae eveniet labore animi distinctio sapiente enim qui ea. Nisi quaerat officiis ipsa enim tempore nulla blanditiis numquam tempora suscipit! Tenetur quisquam mollitia nam iusto excepturi deserunt debitis ut. Et nulla exercitationem, magnam quisquam esse quibusdam minima! Aut, repellendus? Aperiam eius, doloribus quisquam illum impedit iste dolorem vitae et ullam quod voluptatem temporibus laudantium quis repellat neque unde nesciunt, error voluptatum! Eos porro quia beatae quis, omnis voluptatem fuga modi vitae eius quam dolorem ipsum voluptate, explicabo aperiam. Repellendus quo magnam in.</p>
+        <img src="https://cdn.pixabay.com/photo/2020/11/16/16/05/hoverfly-5749361__340.jpg" alt="">
+        <img src="https://cdn.pixabay.com/photo/2020/03/23/08/37/taiwan-4959896__340.jpg" alt="">
     </footer>
+
+    
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
